@@ -1,0 +1,2 @@
+Este es un archivo de texto para realizar el ejercicio de creación
+de un manual de git en la asignatura de desarrollo de interfaces.
