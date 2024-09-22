@@ -1,0 +1,2 @@
+Este archivo de texto es parte del ejercicio de crear un archivo gitignore
+dentro de la elaboración de la guía de uso de git.
